@@ -1,0 +1,45 @@
+.triangle {
+  position: relative;
+  background: silver;
+  height: 9vh;
+}
+
+
+.maintop {
+  height: 300px; 
+  border: white;
+  margin: center;
+}
+
+div.row div {
+    background-color: white;
+    text-align:center;
+}
+
+.maroon {
+    background-color: #800000;
+}
+
+.footer {
+    background-color: maroon;
+    color: white;
+    font-family: verdana;
+    border: 2px gray dashed;
+}
+
+.banner {
+    background-color: maroon;
+    color: white;
+    font-family: verdana;
+    border: 1px white dashed;
+    font-size:40px;
+}
+
+.sideindex {
+    padding-top: 30px;
+    background-color: lightgray;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: verdana;
+}
